@@ -1,7 +1,7 @@
 SmartRestore v3.4.1
 Created by ScepraX.
 
-"The purpose of this mod is to help people to easily restore their mana and health in and out of combat."
+"The purpose of this addon is to help people to easily restore their mana and health in and out of combat."
 This mod works through commands, macros and keybindings. It has no nice interface or extensions for other mods.
 
 ----------------------------------------------------------------
